@@ -1,4 +1,4 @@
-require './assignment'
+require './classRoom'
 require './io'
 
 # Initialize Class
